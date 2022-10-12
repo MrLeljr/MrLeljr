@@ -1,5 +1,5 @@
 - Hi, I’m @MrLeljr
-- I’m interested in Machine Learning, Deep Learning and AI
+- I’m interested in Data Science, Machine Learning, Deep Learning and AI
 - I’m currently learning Tensorflow, PyTorch
 
 <!---
