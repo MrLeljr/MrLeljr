@@ -1,4 +1,4 @@
-- Hi, I’m @MrLeljr
+- Hi, I’m @MrLel
 - I’m interested in Data Science, Machine Learning, Deep Learning and AI
 - I’m currently learning Tensorflow, PyTorch
 
