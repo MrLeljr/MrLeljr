@@ -1,6 +1,6 @@
 - Hi, I’m MrLel
 - I’m interested in Data Science, Machine Learning and mathematics
-- I’m currently learning Tensorflow, PyTorch, python for cardano smart contracts and react native
+- I’m currently learning PyTorch, python for cardano smart contracts, react native and building my first SaaS
 
 <!---
 MrLeljr/MrLeljr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
