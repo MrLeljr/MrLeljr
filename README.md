@@ -1,4 +1,4 @@
-- Hi, I’m MrLel
+
 - I’m interested in Data Science, Machine Learning and mathematics
 
 <!---
