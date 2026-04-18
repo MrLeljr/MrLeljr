@@ -1,5 +1,6 @@
 
 - I’m interested in Data Science, Machine Learning and mathematics
+- Building on AI defense.
 
 <!---
 MrLeljr/MrLeljr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
